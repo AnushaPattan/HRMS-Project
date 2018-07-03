@@ -1,0 +1,244 @@
+E:\New folder nav\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+E:\New folder nav\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+E:\New folder nav\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Employee.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+E:\New folder nav\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\HRMS\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\Users\Aruna K\Desktop\20.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\21.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+F:\hrms\25.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+F:\hrms\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+F:\hrms\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\25.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+F:\hrms\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\29.9.17\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+F:\hrms\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\Users\Aruna K\Desktop\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+C:\mid term\New folder\8.10.2017\8.10.2017\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+E:\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe.config
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.exe
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.pdb
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.exe
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\bin\Debug\HRMSsystem123.pdb
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csprojResolveAssemblyReference.cache
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.About_Us.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.BankDetails.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Certificate.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Contact_Us.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Dependence.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Attendance.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Emergency.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Home.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Login.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Personal.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Properties.Resources.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Report.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Salary.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.Training.resources
+E:\M.Tech\3rd sem\HRMS Final sw\Internship Final Edited Project\HRMSsystem123\HRMSsystem123\obj\Debug\HRMSsystem123.csproj.GenerateResource.Cache
